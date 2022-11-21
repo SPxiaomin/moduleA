@@ -1,1 +1,1 @@
-console.log('moduleA');
+console.log('moduleA v2');
